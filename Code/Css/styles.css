@@ -1,0 +1,22 @@
+body {
+  background-color: #f0f0f0;
+}
+
+#game-canvas {
+  border: 1px solid black;
+}
+
+#game-container {
+  width: 800px;
+  height: 600px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+#score-container {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
